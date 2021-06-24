@@ -3,7 +3,7 @@
 ## The Game
 
 
-## Credits:
+## Credits
 
 -[Real Python Tutorial](https://realpython.com/asteroids-game-python/)
 
