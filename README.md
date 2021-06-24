@@ -1,7 +1,10 @@
 # Learning PyGame - Asteroid Game
 
-## The Game
+## The PyGame
 
+### Coordinates in Pygame
+
+![](static/coordinates.png)
 
 ## Credits
 
