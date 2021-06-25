@@ -1,5 +1,8 @@
 # Learning [PyGame](https://www.pygame.org/news) - Asteroid Game
 
+Example project to learn PyGame capabilities by building [Asteroid Game](https://realpython.com/asteroids-game-python/)
+created by Real Python team.
+
 ## PyGame
 
 ### Coordinates in Pygame
