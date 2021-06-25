@@ -15,6 +15,7 @@
 ## Example Games
 
 ![](static/game1.gif)
+
 ![](static/game2.gif)
 
 ## Credits
