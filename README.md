@@ -9,7 +9,7 @@
 
 ## Screen Shots
 
-<img src="static/ScreenShot1.png" alt="drawing" width="480"/>
+<img src="static/ScreenShot1.png" alt="drawing" width="580"/>
 <!-- ![](static/ScreenShot1.png) -->
 
 ## Example Games
